@@ -1,0 +1,25 @@
+{
+  "name": "ContentTools",
+  "version": "1.2.0",
+  "author": {
+    "name": "Anthony Blackshaw",
+    "email": "ant@getme.co.uk",
+    "url": "https://github.com/anthonyjb"
+  },
+  "description": "A JS library for building WYSIWYG editors for HTML content",
+  "main": "build/content-tools.min.js",
+  "keywords": [
+    "WYSIWYG",
+    "Inline",
+    "Content",
+    "Editor"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
