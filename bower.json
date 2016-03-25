@@ -1,7 +1,15 @@
 {
   "name": "ContentTools",
   "description": "A JS library for building WYSIWYG editors for HTML content",
-  "main": "build/content-tools.js",
+  "main": [
+    "build/content-tools.js",
+    "build/content-tools.min.css",
+    "build/icons.woff",
+    "build/images/drop-horz.svg",
+    "build/images/drop-vert-above.svg",
+    "build/images/drop-vert-below.svg",
+    "build/images/video.svg"
+  ],
   "keywords": [
     "WYSIWYG",
     "Inline",
